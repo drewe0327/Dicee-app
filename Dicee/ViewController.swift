@@ -3,8 +3,6 @@
 //  Dicee
 //
 //  Created by Andrew Enriquez on 7/10/18.
-//  Copyright © 2018 Andrew Enriquez. All rights reserved.
-//
 
 import UIKit
 
